@@ -3,6 +3,10 @@
         "Alcatel",
         "Caparo",
         "Everis",
-        "LATAM"
+        "LATAM",
+        "databricks",
+        "grafana",
+        "kubernetes",
+        "pulumi"
     ]
 }
